@@ -956,8 +956,10 @@ input[type="button"]:disabled,
 #header {
 	background-color: #1f1815;
 	background-attachment: scroll, fixed;
+	/* scroll滚动*/
+	/*background-attachment: scroll, fixed;*/
 	/*background-image: url("images/overlay.png"), url("../images/bg.jpg");*/
-	background-image: url("images/overlay.png"), url(http://docmt.mrshallwe.com/mainbg.jpg);
+	background-image: url("images/overlay.png"), url(http://docmt.mrshallwe.com/mainbg03.jpg);
 
 
 
